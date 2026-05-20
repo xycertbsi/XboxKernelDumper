@@ -1,5 +1,5 @@
 # XboxKernelDumper
-simple program that dumps the kernel for the Xbox 360 memory
+simple program that dumps the kernel from the Xbox 360 memory
 ## YOU NEED XBDM plugin for the xbox 360!!
 like in the launch.ini:
 
