@@ -4,17 +4,26 @@ simple program that dumps the kernel from the Xbox 360 memory
 like in the launch.ini:
 
 [Plugins]
+
 plugin1 = Hdd:\Plugins\Xbdm.xex <-----
+
 plugin2 = Hdd:\Plugins\JRPC2.xex 
+
 plugin3 = 
+
 plugin4 = 
+
 plugin5 = 
 
 
 start it:
+
 linux:
+
 python3 krlExtractor.py
+
 win:
+
 py krlExtractor.py
 
 # DEBUG
