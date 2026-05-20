@@ -25,3 +25,9 @@ python3 krlExtractor.py
 win:
 
 py krlExtractor.py
+
+
+# DEBUG
+### if you find some errors, crash pls open a issue! plssss
+Testers:
+- xycert - Xbox 360 E corona 16mb - with ABadAvatar/BadUpdate + XeUnshackle 
