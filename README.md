@@ -17,7 +17,11 @@ plugin5 =
 
 
 start it:
+
 linux:
+
 python3 krlExtractor.py
+
 win:
+
 py krlExtractor.py
