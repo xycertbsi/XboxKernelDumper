@@ -4,6 +4,7 @@ simple program that dumps the kernel for the Xbox 360 memory
 like in the launch.ini:
 
 [Plugins]
+
 plugin1 = Hdd:\Plugins\Xbdm.xex <-----
 
 plugin2 = Hdd:\Plugins\JRPC2.xex 
